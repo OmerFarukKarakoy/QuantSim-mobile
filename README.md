@@ -40,7 +40,6 @@ QuantSim Mobile replicates order execution environments and statistical portfoli
 
 ## 🖥️ Visual Preview
 
-*(Replace the image links below with your screenshots once uploaded)*
 
 ### 1. Market Dashboard & Live Tickers
 *Real-time streaming prices, 24h market performance, and order-book snapshots.*
