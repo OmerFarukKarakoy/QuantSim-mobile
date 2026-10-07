@@ -12,7 +12,7 @@ export interface GlobalMarketData {
   fearAndGreedClassification: string;
 }
 
-const CMC_API_KEY = '********************************';
+const CMC_API_KEY = process.env.EXPO_PUBLIC_CMC_API_KEY || '';
 const CMC_BASE_URL = 'https://pro-api.coinmarketcap.com';
 
 export const DEFAULT_GLOBAL_MARKET_DATA: GlobalMarketData = {
