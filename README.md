@@ -41,25 +41,35 @@ QuantSim Mobile replicates order execution environments and statistical portfoli
 ## 🖥️ Visual Preview
 
 
-### 1. Market Dashboard & Live Tickers
-*Real-time streaming prices, 24h market performance, and order-book snapshots.*
+### 1. Market Dashboard & Live Market Charts
+*Real-time streaming prices, 24h market performance metrics, interactive candlestick charts, and order-book snapshots.*
 
-<img width="350" alt="Dashboard" src="https://via.placeholder.com/350x700?text=Dashboard+Preview" />
+<img width="350" alt="Market Dashboard" src="https://via.placeholder.com/350x700?text=Market+Dashboard" />
 
 ### 2. Active Positions & Leverage Controls
-*Execution terminal showing live PnL, entry targets, liquidation prices, and margin ratios.*
+*Live trade execution terminal displaying active positions, dynamic leverage adjusters, liquidation thresholds, and real-time PnL.*
 
-<img width="350" alt="Positions" src="https://via.placeholder.com/350x700?text=Positions+Preview" />
+<img width="350" alt="Active Positions" src="https://via.placeholder.com/350x700?text=Active+Positions" />
 
-### 3. Quantitative Analytics & Performance
-*Detailed drawdown graphs, risk distribution metrics, and trade execution reports.*
+### 3. Portfolio & Asset Allocation
+*Comprehensive overview of total equity, margin balance, available capital, and visual asset distribution.*
 
-<img width="350" alt="Analytics" src="https://via.placeholder.com/350x700?text=Analytics+Preview" />
+<img width="350" alt="Portfolio" src="https://via.placeholder.com/350x700?text=Portfolio" />
 
-### 4. Challenge & Evaluation Terminal
-*Evaluation tracks monitoring rule adherence, daily loss limits, and profit targets.*
+### 4. Quantitative Analytics, Performance & Challenge Terminal
+*Prop-trading evaluation module combining drawdown monitoring, profit targets, rule compliance, and advanced statistical win-rate analytics.*
 
-<img width="350" alt="Challenge" src="https://via.placeholder.com/350x700?text=Challenge+Preview" />
+<img width="350" alt="Analytics & Challenge" src="https://via.placeholder.com/350x700?text=Analytics+%26+Challenge" />
+
+### 5. Trade History & Execution Logs
+*Detailed chronological trade ledger tracking closed positions, historical execution timestamps, fees, and realized PnL.*
+
+<img width="350" alt="Trade History" src="https://via.placeholder.com/350x700?text=Trade+History" />
+
+### 6. Theme & Trading Mode Customization
+*Seamless switching between interface appearance modes and trading environments (Paper Trading / Testnet simulation).*
+
+<img width="350" alt="Mode & Theme Switch" src="https://via.placeholder.com/350x700?text=Mode+Switch" />
 
 ---
 
