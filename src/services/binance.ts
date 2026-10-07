@@ -1,8 +1,8 @@
 // src/services/binance.ts
 
 // 1. API Anahtarları (Binance Futures Testnet)
-const API_KEY = '****************************************************************';
-const SECRET_KEY = '****************************************************************';
+const API_KEY = process.env.EXPO_PUBLIC_BINANCE_API_KEY || '';
+const SECRET_KEY = process.env.EXPO_PUBLIC_BINANCE_SECRET_KEY || '';
 
 // Testnet Base URL'leri (İmzalı işlemler için testnet, canlı piyasa verileri için ana ağ)
 const TESTNET_REST_URL = 'https://testnet.binancefuture.com';
