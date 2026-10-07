@@ -78,18 +78,37 @@ QuantSim Mobile replicates order execution environments and statistical portfoli
 ---
 
 ## Get started
-
-1. Install dependencies
+1. Clone the repository
+   
+   ```bash
+   git clone [https://github.com/OmerFarukKarakoy/QuantSim-mobile.git](https://github.com/OmerFarukKarakoy/QuantSim-mobile.git)
+   cd QuantSim-mobile
+   ```
+   
+2. Install dependencies
 
    ```bash
    npm install
    ```
 
-2. Start the app
+3. Configure Environment Variables
+Create a .env file in the project root:
+
+   ```bash
+   EXPO_PUBLIC_CMC_API_KEY=your_coinmarketcap_api_key
+   EXPO_PUBLIC_BINANCE_API_KEY=your_binance_testnet_key
+   EXPO_PUBLIC_BINANCE_SECRET_KEY=your_binance_testnet_secret
+   ```
+
+4. Run on Local Emulator / Expo Go
+   Start the app
 
    ```bash
    npx expo start
    ```
+Press a to launch on Android Emulator / Device.
+Press i to launch on iOS Simulator.
+Scan the terminal QR code using Expo Go.
 
 In the output, you'll find options to open the app in a
 
@@ -122,6 +141,14 @@ To learn more about developing your project with Expo, look at the following res
 
 - [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
 - [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+
+- ## 👨‍💻 Developer
+
+**Ömer Faruk Karaköy**    
+🌐 GitHub: [github.com/OmerFarukKarakoy](https://github.com/OmerFarukKarakoy)  
+📧 Mail: omerfarukkarakoy@hotmail.com
+
+---
 
 ## Join the community
 
