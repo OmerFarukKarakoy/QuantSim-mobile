@@ -1,5 +1,4 @@
-<img width="1049" height="2048" alt="livemarketcharts" src="https://github.com/user-attachments/assets/0801e8f6-6c95-4393-809e-548031054d46" />
-<img width="1049" height="2048" alt="marketdashboard" src="https://github.com/user-attachments/assets/6f615752-17e5-4a21-a67d-a70cfd4d06b1" />
+
 # 📈 QuantSim Mobile
 
 ![React Native](https://img.shields.io/badge/Frontend-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -45,8 +44,8 @@ QuantSim Mobile replicates order execution environments and statistical portfoli
 
 ### 1. Market Dashboard & Live Market Charts
 *Real-time streaming prices, 24h market performance metrics, interactive candlestick charts, and order-book snapshots.*
-
-<img width="350" alt="Market Dashboard" src="https://via.placeholder.com/350x700?text=Market+Dashboard" />
+<img width="350" height="400" alt="livemarketcharts" src="https://github.com/user-attachments/assets/0801e8f6-6c95-4393-809e-548031054d46" />
+<img width="350" height="400" alt="marketdashboard" src="https://github.com/user-attachments/assets/6f615752-17e5-4a21-a67d-a70cfd4d06b1" />
 
 ### 2. Active Positions & Leverage Controls
 *Live trade execution terminal displaying active positions, dynamic leverage adjusters, liquidation thresholds, and real-time PnL.*
