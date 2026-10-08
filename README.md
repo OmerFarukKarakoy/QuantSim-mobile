@@ -1,3 +1,5 @@
+<img width="1049" height="2048" alt="livemarketcharts" src="https://github.com/user-attachments/assets/0801e8f6-6c95-4393-809e-548031054d46" />
+<img width="1049" height="2048" alt="marketdashboard" src="https://github.com/user-attachments/assets/6f615752-17e5-4a21-a67d-a70cfd4d06b1" />
 # 📈 QuantSim Mobile
 
 ![React Native](https://img.shields.io/badge/Frontend-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
