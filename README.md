@@ -44,28 +44,25 @@ QuantSim Mobile replicates order execution environments and statistical portfoli
 
 ### 1. Market Dashboard & Live Market Charts
 *Real-time streaming prices, 24h market performance metrics, interactive candlestick charts, and order-book snapshots.*
-<img width="350" height="400" alt="livemarketcharts" src="https://github.com/user-attachments/assets/0801e8f6-6c95-4393-809e-548031054d46" />
-<img width="350" height="400" alt="marketdashboard" src="https://github.com/user-attachments/assets/6f615752-17e5-4a21-a67d-a70cfd4d06b1" />
+<img width="350" alt="livemarketcharts" src="https://github.com/user-attachments/assets/0801e8f6-6c95-4393-809e-548031054d46" />
+<img width="350" alt="marketdashboard" src="https://github.com/user-attachments/assets/6f615752-17e5-4a21-a67d-a70cfd4d06b1" />
 
 ### 2. Active Positions & Leverage Controls
 *Live trade execution terminal displaying active positions, dynamic leverage adjusters, liquidation thresholds, and real-time PnL.*
-
-<img width="350" alt="Active Positions" src="https://via.placeholder.com/350x700?text=Active+Positions" />
+<img width="350" alt="activepositions" src="https://github.com/user-attachments/assets/afaa86f5-a454-40f6-a2dc-121df7ab5ae4" />
 
 ### 3. Portfolio & Asset Allocation
 *Comprehensive overview of total equity, margin balance, available capital, and visual asset distribution.*
-
-<img width="350" alt="Portfolio" src="https://via.placeholder.com/350x700?text=Portfolio" />
+<img width="350" alt="portfolio" src="https://github.com/user-attachments/assets/32bc07e4-55a7-4862-ae5a-6410b94ac3b6" />
+<img width="350" alt="portfolio2" src="https://github.com/user-attachments/assets/f0bc47fb-325b-4c0d-bb8c-651807851301" />
 
 ### 4. Quantitative Analytics, Performance & Challenge Terminal
 *Prop-trading evaluation module combining drawdown monitoring, profit targets, rule compliance, and advanced statistical win-rate analytics.*
-
-<img width="350" alt="Analytics & Challenge" src="https://via.placeholder.com/350x700?text=Analytics+%26+Challenge" />
+<img width="350" alt="performance-analytics" src="https://github.com/user-attachments/assets/0af5803a-3850-42bf-b426-084e8d6f8adf" />
 
 ### 5. Trade History & Execution Logs
 *Detailed chronological trade ledger tracking closed positions, historical execution timestamps, fees, and realized PnL.*
-
-<img width="350" alt="Trade History" src="https://via.placeholder.com/350x700?text=Trade+History" />
+<img width="350" alt="tradehistory" src="https://github.com/user-attachments/assets/6500f0ad-7cdc-4c14-8a76-8bc748d71b7b" />
 
 ### 6. Theme & Trading Mode Customization
 *Seamless switching between interface appearance modes and trading environments (Paper Trading / Testnet simulation).*
